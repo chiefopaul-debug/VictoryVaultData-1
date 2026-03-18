@@ -1,15 +1,18 @@
 {
-  "2.00 ODDS 1": "WAITING...",
-  "2.00 ODDS 2": "WAITING...",
-  "BET OF DAY 1": "WAITING...",
-  "BET OF DAY 2": "WAITING...",
-  "BREAKFAST TICKET 1": "WAITING...",
-  "BREAKFAST TICKET 2": "WAITING...",
-  "free 1.5 odds (Rollover) 1": "WAITING...",
-  "free 1.5 odds (Rollover) 2": "WAITING...",
-  "free 1.30 odds (Rollover) 1": "WAITING...",
-  "free 1.30 odds (Rollover) 2": "WAITING...",
-  "INVESTMENT TICKET 1": "WAITING...",
-  "INVESTMENT TICKET 2": "WAITING...",
-  "VIP_MAIN": "WAITING..."
+  "APPROVED_DEVICES": {
+    "PAULS-PHONE-ID": "PASS77"
+  },
+  "2.00 ODDS 1": "BC-MATCH-101",
+  "2.00 ODDS 2": "BC-MATCH-102",
+  "BET OF DAY 1": "TOP-PICK-01",
+  "BET OF DAY 2": "TOP-PICK-02",
+  "BREAKFAST TICKEY 1": "EARLY-WIN-1",
+  "BREAKFAST TICKEY 2": "EARLY-WIN-2",
+  "free 1.5 odds (Rollover) 1": "ROLL-55",
+  "free 1.5 odds (Rollover) 2": "ROLL-56",
+  "free 1.30 odds (Rollover) 1": "ROLL-33",
+  "free 1.30 odds (Rollover) 2": "ROLL-34",
+  "INVESTMENT TICKET 1": "SAFE-INV-1",
+  "INVESTMENT TICKET 2": "SAFE-INV-2",
+  "VIP_MAIN": "GOLD-VAULT-99"
 }
